@@ -1,6 +1,6 @@
 # Architector Wheels
 
-Precompiled Python wheels for architector deployment on uptimize.
+Precompiled Python wheels for architector deployment.
 
 ## Wheels (Python 3.13, Linux x86_64)
 
